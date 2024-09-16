@@ -13,7 +13,7 @@ The City of Vancouver is increasingly leveraging data to improve its operations 
 * The Dataset used is taken from [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/3-1-1-contact-centre-metrics/information/) for the category of "3-1-1 contact centre metrics"<br>
 [cummulative-3-1-1-contact-centre-metrics.xlsx](https://github.com/user-attachments/files/17020770/cummulative-3-1-1-contact-centre-metrics.xlsx)
 ## Methodology:
-* The process involves 3 different steps explained in detail below:
+* The process involves 14 different steps explained in detail below:
 ### Step1: Data Analytical Question Formulation
 * In this dataset I will be using the 3-1-1 Contact center services. The main metric we will be suing here will be about “What is the count of Calls Abandoned for each month of the year respectively.” For calculating this we can use the ‘BI_ID’, ‘Calls_Abandoned’, ‘Date’ columns.
 ### Step2: Data Discovery
